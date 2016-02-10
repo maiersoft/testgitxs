@@ -15,7 +15,7 @@ namespace testgitxs
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!"
+							Text = "Hello GitHub - Welcome to Xamarin Forms!"
 						}
 					}
 				}
